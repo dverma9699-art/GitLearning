@@ -1,1 +1,3 @@
 My name is Deepak Verma. I work in an IT company.
+<button>Login</button>
+<button>Sign Up</button>
